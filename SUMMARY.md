@@ -9,6 +9,11 @@
 * [Assignments](administrative/assignments.md)
 * [Project](administrative/project.md)
 
+##Infrastructure
+* [C9](development-environment/c9.md)
+* [Local mysql](development-environment/localsetup.md)
+* [Remote mysql](development-environment/mysql.md)
+
 ## HTTP
 
 * [Intro](http/untitled.md)
