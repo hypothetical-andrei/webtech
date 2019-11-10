@@ -1,4 +1,4 @@
-# Configurarea serviciului mysql 
+# Remote mysql
 
 Serviciul `mysql` este cel care ne permite gestionarea bazei de date în care aplicația va stoca informații.
 
@@ -8,7 +8,7 @@ Pentru a testa că acest serviciu este pornit în terminal executăm următoarea
 sudo service mysql status
 ```
 
-![mysql status](./mysql/001-mysql-status.png)
+![mysql status](../.gitbook/assets/001-mysql-status.png)
 
 ## Configurare utilizator nou
 
@@ -56,7 +56,7 @@ Pentru a lista bazele de date disponibile executam următoarea comandă:
 SHOW DATABASES;
 ```
 
-![002-show-databases](./mysql/002-create-database.png)
+![002-show-databases](../.gitbook/assets/002-create-database.png)
 
 ## Revenire în consola linux
 
